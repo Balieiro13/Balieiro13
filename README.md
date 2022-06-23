@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 Sou um cientista de dados e desenvolvedor de software formado em Matemática pela USP.
-Atualmente estou fazendo uma especialização em ciência de dados na UFPE pela Embraer.
+
+* Atualmente estou fazendo uma especialização em ciência de dados na UFPE pela Embraer.
 
 ---
 ## Veja abaixo um pouco dos meus dados no GitHub:
