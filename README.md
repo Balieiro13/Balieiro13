@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Meu nome é André Balieiro, sou um cientista de dados e desenvolvedor de software formado em Matemática pela USP.
+Meu nome é André Balieiro, sou um desenvolvedor de software e cientista de dados formado em Matemática pela USP.
 
 * Atualmente estou fazendo uma especialização em ciência de dados na UFPE pela Embraer.
 
