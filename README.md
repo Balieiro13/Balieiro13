@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Meu nome é André Balieiro, sou um desenvolvedor de software e cientista de dados formado em Matemática pela USP.
+Meu nome é André Balieiro, sou um ML Engineer formado em Matemática pela USP e Pós-Graduado (Lato Sensu) em Ciência de Dados pela UFPE.
 
-* Atualmente estou fazendo uma especialização em ciência de dados na UFPE pela Embraer.
+* Atualmente estou trabalhando com Modelos de Linguagem (RAG, Langchain, HuggingFace ...) na Embraer.
 
 ---
 ## Veja abaixo um pouco dos meus dados no GitHub:
